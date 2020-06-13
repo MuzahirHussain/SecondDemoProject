@@ -1,1 +1,2 @@
 This repository is created on Local machine first. Now we are going to add it to github.
+Github has no repository created so we will have to create it manually on github and then add this repo there.
