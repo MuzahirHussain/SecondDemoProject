@@ -1,1 +1,4 @@
 Created a new file in a branch.
+
+
+Edited by newTestFile branch locally.
